@@ -1,0 +1,8 @@
+﻿  S004.cpp
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(25): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(76): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(115): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(88,4): warning C4102: StartCopy: неиспользованная метка
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(98,1): warning C4102: IndexBiggerLength: неиспользованная метка
+C:\Users\Grigori\Desktop\S004\S004\S004.cpp(104,1): warning C4102: CheckLengthCopy: неиспользованная метка
+  S004.vcxproj -> C:\Users\Grigori\Desktop\S004\Debug\S004.exe
